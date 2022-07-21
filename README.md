@@ -6,3 +6,5 @@
 ## In Progress
 
 ## Done
+* Pacman
+* Repo
